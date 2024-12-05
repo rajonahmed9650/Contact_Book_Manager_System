@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Rajon",
+        "email": "rajon.gamil.com",
+        "phone": "01747965204",
+        "address": "Dhaka"
+    },
+    {
+        "name": "Rahim",
+        "email": "rahim@gmail.com",
+        "phone": "01787474380",
+        "address": "Sylet"
+    },
+    {
+        "name": "Kamal",
+        "email": "kamal@gmail.com",
+        "phone": "01236542398",
+        "address": "Rajshahi"
+    },
+    {
+        "name": "Jamal",
+        "email": "jamal@gmail.com",
+        "phone": "02365987452",
+        "address": "Dhaka"
+    },
+    {
+        "name": "Yeasin",
+        "email": "yeasin@gmail.com",
+        "phone": "01788566235",
+        "address": "London"
+    }
+]
